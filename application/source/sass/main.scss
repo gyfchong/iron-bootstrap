@@ -1,0 +1,69 @@
+/*
+	Fonts
+*/
+
+
+/* Hint of Bourbon */
+@import "bourbon/bourbon";
+
+/*
+	Inuit base
+	http://inuitcss.com
+*/
+
+@import "vars";
+@import "inuit.css/inuit";
+
+
+/*
+	Global styles
+*/
+  
+  
+
+
+  // Global Media Queries
+  
+  @include media-query(lap) {
+  	
+  }
+  
+  @include media-query(palm){
+  	
+  }
+
+/*
+	User Interface
+	========
+	Different elements of your design
+*/
+@import "ui/header";
+@import "ui/elements";
+@import "ui/sections";
+@import "ui/footer";
+
+
+/*
+	Pages
+  ========
+  Styles for specific pages
+*/
+//  @import "pages/sample";
+
+
+/*
+	Media Queries
+  ========
+  Alter your design appearance based on media queries
+*/
+
+//  @import "media-queries/laptop";
+//  @import "media-queries/mobile";
+
+
+/*
+	Plugins
+	========
+	Imported Plugins/Not your styles
+*/
+

@@ -1,0 +1,38 @@
+{
+  "name": "OOTS",
+  "description": "OOTS Website",
+  "version": "0.1.0",
+  "license": "Copyright OOTS",
+  "homepage": "http://www.outofthesquare.com",
+  "author": {
+    "name": "Luke Martin",
+    "email": "luke@outofthesquare.com.au",
+    "url": "http://www.outofthesquare.com"
+  },
+  "path": {
+    "dev": "application/development",
+    "deploy": "application/deploy",
+    "enviro": "application/environment/wp-content/themes/PWCS_T4",
+    "lib": {
+      "js": "library/javascripts",
+      "css": "library/stylesheets",
+      "images": "library/images"
+    },
+    "src": {
+      "sass": "application/source/sass",
+      "js": "application/source/javascripts"
+    }
+  },
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-sass": "latest",
+    "grunt-contrib-csslint": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-clean": "latest",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-smushit": "latest",
+    "grunt-contrib-watch": "latest"
+  }
+}
