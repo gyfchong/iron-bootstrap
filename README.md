@@ -8,3 +8,7 @@ Note: All support for Iron Bootstrap is provided in the links to these packages.
 - [LT3 Wordpress Theme v2.1](https://github.com/beaucharman/lt3)
 - [Grunt Project Kickstarter v2.0](https://github.com/beaucharman/grunt-project-kickstarter)
 - [Inuit CSS v5.0](http://inuitcss.com)
+
+### Notes
+- Please used the latest **stable** version of WordPress when developing.
+- IB uses jQuery 1.10.2
