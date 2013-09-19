@@ -5,6 +5,6 @@
 ## Software included in this package
 Note: All support for Iron Bootstrap is provided in the links to these packages.
 
-- [LT3 Wordpress Theme](https://github.com/beaucharman/lt3)
-- [Grunt Project Kickstarter](https://github.com/beaucharman/grunt-project-kickstarter)
-- [Inuit CSS](http://inuitcss.com)
+- [LT3 Wordpress Theme v2.1](https://github.com/beaucharman/lt3)
+- [Grunt Project Kickstarter v2.0](https://github.com/beaucharman/grunt-project-kickstarter)
+- [Inuit CSS v5.0](http://inuitcss.com)
