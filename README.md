@@ -10,7 +10,9 @@ Note: All support for Iron Bootstrap is provided in the links to these packages.
 - [Inuit CSS v5.0](http://inuitcss.com)
 
 ## Design Package
-- [Illustrator Wireframe UI boilerplate](http://dribbble.com/shots/760177-Wireframe-Blueprint-Kit)
+Note: Grid does not match inuitcss grid and is merely a basic measuring tool.
+- [Illustrator Wireframe UI Symbols](http://dribbble.com/shots/760177-Wireframe-Blueprint-Kit)
+- [Illustrator 960grid](http://960.gs/)
 
 ### Notes
 - Please used the latest **stable** version of WordPress when developing.
