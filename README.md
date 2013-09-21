@@ -15,7 +15,7 @@ Note: All support for Iron Bootstrap is provided in the links to these packages.
 - [Illustrator 960grid](http://960.gs/)
 
 # Installation
-> Note: requires knowledge of CLI such as Terminal & local PHP/Apache.
+> Note: requires knowledge/installations of CLI such as Terminal, local PHP/Apache and Git.
 
 1. Git clone this repo to your desired location.
 2. Make sure you have followed the installation instructions [here](https://github.com/beaucharman/grunt-project-kickstarter).
