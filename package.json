@@ -1,18 +1,18 @@
 {
-  "name": "OOTS",
-  "description": "OOTS Website",
+  "name": "YourProjectName",
+  "description": "",
   "version": "0.1.0",
-  "license": "Copyright OOTS",
-  "homepage": "http://www.outofthesquare.com",
+  "license": "Copyright",
+  "homepage": "",
   "author": {
-    "name": "Luke Martin",
-    "email": "luke@outofthesquare.com.au",
-    "url": "http://www.outofthesquare.com"
+    "name": "",
+    "email": "",
+    "url": ""
   },
   "path": {
     "dev": "application/development",
     "deploy": "application/deploy",
-    "enviro": "application/environment/wp-content/themes/PWCS_T4",
+    "enviro": "application/environment/wp-content/themes/YourThemeName",
     "lib": {
       "js": "library/javascripts",
       "css": "library/stylesheets",
