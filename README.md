@@ -10,19 +10,20 @@ Note: All support for Iron Bootstrap is provided in the links to these packages.
 - [Inuit CSS v5.0](http://inuitcss.com)
 
 ## Design Package
-Note: Grid does not match inuitcss grid and is merely a basic measuring tool.
+> Note: Grid does not match inuitcss grid and is merely a basic measuring tool.
 - [Illustrator Wireframe UI Symbols](http://dribbble.com/shots/760177-Wireframe-Blueprint-Kit)
 - [Illustrator 960grid](http://960.gs/)
 
 # Installation
-Note: requires knowledge of CLI such as Terminal & local PHP/Apache.
-1. Git clone this repo to your desired location
+> Note: requires knowledge of CLI such as Terminal & local PHP/Apache.
+
+1. Git clone this repo to your desired location.
 2. Make sure you have followed the installation instructions [here](https://github.com/beaucharman/grunt-project-kickstarter).
-3. Go to your project directory and run `sudo npm install`
-4. Download the latest stable [Wordpress](http://wordpress.org)
-5. Unzip and place the files into "application/environment"
+3. Go to your project directory and run `sudo npm install`.
+4. Download the latest stable [Wordpress](http://wordpress.org).
+5. Unzip and place the files into "application/environment".
 6. Run the Wordpress standard install from your browser.
-7. Run `grunt build` in your project root directory (where your GruntFile is)
+7. Run `grunt build` in your project root directory (where your GruntFile is).
 8. Open your Wordpress admin and change the theme to yours.
 9. And you're ready to start developing!
 
