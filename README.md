@@ -15,7 +15,7 @@ Welcome to **Iron Bootstrap**, a basic yet comprehensive starting point for deve
 - [Illustrator 960grid](http://960.gs/)
 
 # Installation
-> Note: requires knowledge/installations of CLI such as Terminal, local PHP/Apache and Git.
+> Note: requires knowledge/installations of CLI such as Terminal, local PHP/Apache, Git and SASS.
 
 1. Git clone this repo to your desired location.
 2. Make sure you have followed the installation instructions [here](https://github.com/beaucharman/grunt-project-kickstarter).
@@ -28,12 +28,13 @@ Welcome to **Iron Bootstrap**, a basic yet comprehensive starting point for deve
 9. And you're ready to start developing!
 
 ## Suggested Workflow
-1. Make changes to your theme files in the application/development directory.
+1. Make changes to your theme files in the application/development directory & Source files.
 2. Run `grunt build` after your changes
 3. Refresh your browser.
 
-**Alternatively** you can run `grunt watch` and `grunt build` when you have made changes to source/SASS. Currently `grunt watch` only copies changes made to your development files.
+### Alternatively
+You can run `grunt watch` and `grunt build` when you have made changes to source/SASS. Currently `grunt watch` only copies changes made to your development files.
 
-### Notes
+## Notes
 - Please used the latest **stable** version of WordPress when developing.
 - IB uses jQuery 1.10.2
