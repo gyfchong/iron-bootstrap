@@ -33,7 +33,7 @@ Welcome to **Iron Bootstrap**, a basic yet comprehensive starting point for deve
 3. Refresh your browser.
 
 ### Alternatively
-You can run `grunt watch` and `grunt build` when you have made changes to source/SASS. Currently `grunt watch` only copies changes made to your development files.
+You can run `grunt watch` and only `grunt build` when you have made changes to source/SASS. Currently `grunt watch` only copies changes made to your development files.
 
 ## Notes
 - Please used the latest **stable** version of WordPress when developing.
