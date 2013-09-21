@@ -18,7 +18,7 @@ Welcome to **Iron Bootstrap**, a basic yet comprehensive starting point for deve
 > Note: requires knowledge/installations of CLI such as Terminal, local PHP/Apache, Git and SASS.
 
 1. Git clone this repo to your desired location.
-2. Make sure you have followed the installation instructions [here](https://github.com/beaucharman/grunt-project-kickstarter).
+2. Make sure you have followed the installation instructions [here](https://github.com/beaucharman/grunt-project-kickstarter) in regards to setting up Grunt.
 3. Go to your project directory and run `sudo npm install`.
 4. Download the latest stable [Wordpress](http://wordpress.org).
 5. Unzip and place the files into "application/environment".
