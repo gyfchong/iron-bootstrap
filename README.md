@@ -1,5 +1,5 @@
-# Iron Bootstrap v1.1
-Welcome to **Iron Bootstrap**, a basic yet comprehensive starting point for developing WordPress themes. Iron Bootstrap makes use of a **modified combination** of various software & assets.
+# Iron Bootstrap BETA
+Welcome to **Iron Bootstrap**, a basic yet comprehensive starting point for developing WordPress themes (with IE7+ compatibility). Iron Bootstrap makes use of a **modified combination** of various software & assets.
 
 ## Software included in this package
 > Note: All support for Iron Bootstrap is provided in the links to these packages.
@@ -7,9 +7,10 @@ Welcome to **Iron Bootstrap**, a basic yet comprehensive starting point for deve
 - [LT3 Wordpress Theme v2.1](https://github.com/beaucharman/lt3)
 - [Grunt Project Kickstarter v2.0](https://github.com/beaucharman/grunt-project-kickstarter)
 - [Inuit CSS v5.0](http://inuitcss.com)
+- [Unsemantic Grid](http://unsemantic.com)
 
 ## Design Package
-> Note: Grid does not match inuitcss grid and is merely a basic measuring tool.
+> Note: Grid does not match Unsemantic grid and is merely a measuring tool.
 
 - [Illustrator Wireframe UI Symbols](http://dribbble.com/shots/760177-Wireframe-Blueprint-Kit)
 - [Illustrator 960grid](http://960.gs/)
