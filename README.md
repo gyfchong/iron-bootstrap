@@ -1,4 +1,4 @@
-# Iron Bootstrap v1.0
+# Iron Bootstrap v1.1
 Welcome to **Iron Bootstrap**, a basic yet comprehensive starting point for developing WordPress themes. Iron Bootstrap makes use of a **modified combination** of various software & assets.
 
 ## Software included in this package
