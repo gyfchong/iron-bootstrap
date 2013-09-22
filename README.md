@@ -1,4 +1,4 @@
-# Iron Bootstrap BETA
+# Iron Bootstrap BETA v1.1
 Welcome to **Iron Bootstrap**, a basic yet comprehensive starting point for developing WordPress themes (with IE7+ compatibility). Iron Bootstrap makes use of a **modified combination** of various software & assets.
 
 ## Software included in this package
