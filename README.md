@@ -6,11 +6,9 @@ Welcome to **Iron Bootstrap**, a basic yet comprehensive starting point for deve
 
 - [LT3 Wordpress Theme v2.1](https://github.com/beaucharman/lt3)
 - [Grunt Project Kickstarter v2.0](https://github.com/beaucharman/grunt-project-kickstarter)
-- 
+- [Bourbon] (http://bourbon.io/)
 
 ## Design Package
-> Note: Grid does not match Unsemantic grid and is merely a measuring tool.
-
 - [Illustrator Wireframe UI Symbols](http://dribbble.com/shots/760177-Wireframe-Blueprint-Kit)
 - [Illustrator 960grid](http://960.gs/)
 
