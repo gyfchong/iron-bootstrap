@@ -6,7 +6,8 @@ Welcome to **Iron Bootstrap**, a basic yet comprehensive starting point for deve
 
 - [LT3 Wordpress Theme v2.1](https://github.com/beaucharman/lt3)
 - [Grunt Project Kickstarter v2.0](https://github.com/beaucharman/grunt-project-kickstarter)
-- [Bourbon] (http://bourbon.io/)
+- [Bourbon v2.1] (http://bourbon.io/)
+- [Neat v2.1] (http://neat.bourbon.io/) (Grid Framework)
 
 ## Design Package
 - [Illustrator Wireframe UI Symbols](http://dribbble.com/shots/760177-Wireframe-Blueprint-Kit)
