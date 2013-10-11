@@ -6,8 +6,7 @@ Welcome to **Iron Bootstrap**, a basic yet comprehensive starting point for deve
 
 - [LT3 Wordpress Theme v2.1](https://github.com/beaucharman/lt3)
 - [Grunt Project Kickstarter v2.0](https://github.com/beaucharman/grunt-project-kickstarter)
-- [Inuit CSS v5.0](http://inuitcss.com)
-- [Unsemantic Grid](http://unsemantic.com)
+- 
 
 ## Design Package
 > Note: Grid does not match Unsemantic grid and is merely a measuring tool.
