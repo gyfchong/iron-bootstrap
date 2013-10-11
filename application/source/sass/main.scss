@@ -1,8 +1,22 @@
 /*
+	Author: Out of the Square
+	Version: 1.0
+*/
+
+/*
 	Fonts: Declare any custom fonts here
 */
 
-
+	@font-face {
+	    font-family: 'Franchise';
+	    src: url('../fonts/franchise-bold-webfont.eot');
+	    src: url('../fonts/franchise-bold-webfont.eot?#iefix') format('embedded-opentype'),
+	         url('../fonts/franchise-bold-webfont.woff') format('woff'),
+	         url('../fonts/franchise-bold-webfont.ttf') format('truetype'),
+	         url('../fonts/franchise-bold-webfont.svg#franchiseregular') format('svg');
+	    font-weight: normal;
+	    font-style: normal;
+	}
 
 /*
 	Packages: See packages.scss
@@ -12,13 +26,26 @@
 
 
 /*
+	Style Guide to keep things consistent: See style-guide.scss
+*/
+
+	@import "style-guide";
+
+/*
 	Global styles: Your styles begin here
 */
 	
 	body {
-	
+		font-family: $base-font-family;
+		font-size: $base-font-size;
+		background-color: #fff;
+		color: $base-font-color;
+		-webkit-font-smoothing: antialiased !important;
 	}
-
+	
+	h1, h2, h3, h4,h5, h6 {
+		font-family: $heading-font;
+	}
 
 
 /*
@@ -36,15 +63,3 @@
 */
 
 //  @import "pages/sample";
-
-
-/*
-	Media Queries: Alter your design appearance based on media queries
-*/
-
-//  @import "media-queries/laptop";
-//  @import "media-queries/mobile";
-
-
-
-
