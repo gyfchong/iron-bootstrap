@@ -34,5 +34,5 @@ Welcome to **Iron Bootstrap**, a basic yet comprehensive starting point for deve
 You can run `grunt watch` and only `grunt build` when you have made changes to source/SASS. Currently `grunt watch` only copies changes made to your development files.
 
 ## Notes
-- Please used the latest **stable** version of WordPress when developing.
-- IB uses jQuery 1.10.2
+- Please use the latest **stable** version of WordPress when developing.
+- Iron Bootstrap uses jQuery 1.10.2
