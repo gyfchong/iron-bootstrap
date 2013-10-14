@@ -9,10 +9,6 @@ Welcome to **Iron Bootstrap**, a basic yet comprehensive starting point for deve
 - [Bourbon v2.1] (http://bourbon.io/)
 - [Neat v2.1] (http://neat.bourbon.io/) (Grid Framework)
 
-## Design Package
-- [Illustrator Wireframe UI Symbols](http://dribbble.com/shots/760177-Wireframe-Blueprint-Kit)
-- [Illustrator 960grid](http://960.gs/)
-
 # Installation
 > Note: requires knowledge/installations of CLI such as Terminal, local PHP/Apache, Git and SASS.
 

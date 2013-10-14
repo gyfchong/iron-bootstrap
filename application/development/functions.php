@@ -100,10 +100,6 @@ require_once(LT3_FULL_EXTENSIONS_PATH . '/loop.php');
    ======================================================================== */
 require_once(LT3_FULL_EXTENSIONS_PATH . '/widgets.php');
 
-/* Theme Menus
-   ======================================================================== */
-require_once(LT3_FULL_EXTENSIONS_PATH . '/menus.php');
-
 /* Theme Scripts
    ======================================================================== */
 require_once(LT3_FULL_EXTENSIONS_PATH . '/scripts.php');
@@ -111,10 +107,6 @@ require_once(LT3_FULL_EXTENSIONS_PATH . '/scripts.php');
 /* Theme Styles
    ======================================================================== */
 require_once(LT3_FULL_EXTENSIONS_PATH . '/styles.php');
-
-/* Template Hooks
-   ======================================================================== */
-// require_once(LT3_FULL_EXTENSIONS_PATH . '/template-hooks.php');
 
 /* Shortcodes
    ======================================================================== */
@@ -124,9 +116,17 @@ require_once(LT3_FULL_EXTENSIONS_PATH . '/styles.php');
    Project Extensions
    ======================================================================== */
 
+/* Theme Menus
+   ======================================================================== */
+   require_once(LT3_FULL_PROJECT_PATH . '/menus.php');
+
 /* Site Settings Init
    ======================================================================== */
 // require_once(LT3_FULL_PROJECT_PATH . '/site-settings-init.php');
+
+ /* Custom Media Init
+   ======================================================================== */
+// require_once(LT3_FULL_PROJECT_PATH . '/custom-media-init.php');
 
 /* Custom Post Types Init
    ======================================================================== */
