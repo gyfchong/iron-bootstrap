@@ -32,25 +32,10 @@ function lt3_load_styles()
   wp_register_style('lt3_main_stylesheet', get_template_directory()
     . '/style.css', array(), LT3_STYLES_CACHE_BREAK);
 
-  /**
-   * Enqueue styles here
-   */
-  if (!is_admin())
-  {
-    /**
-     * Front end stylesheets
-     */
+  wp_enqueue_style('lt3_main_stylesheet');
 
-    /* Main stylesheet */
-    wp_enqueue_style('lt3_main_stylesheet');
-
-    /**
-     * Enqueue theme styles here.
-     * Consider seperate files for development, then bundle into style.css
-     * for deployment. Conditional styles would be appropriate to be loaded here.
-     */
-  }
-  elseif (is_admin())
+  
+  if (is_admin())
   {
     /**
      * Admin stylesheets
@@ -58,9 +43,11 @@ function lt3_load_styles()
 
     /* Add consistency to site settings inputs */
     wp_enqueue_style('lt3_custom_admin_styles');
+    wp_dequeue_style('lt3_main_stylesheet');
 
     // Enqueue admin styles here.
   }
+  
 }
 
 /**
