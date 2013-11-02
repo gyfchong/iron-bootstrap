@@ -92,6 +92,10 @@ require_once(LT3_FULL_EXTENSIONS_PATH . '/template-snippets.php');
    ======================================================================== */
 // require_once(LT3_FULL_EXTENSIONS_PATH . '/custom-taxonomy.php');
 
+/* Custom Meta Field Box
+   ======================================================================== */
+// require_once(LT3_FULL_EXTENSIONS_PATH . '/custom-meta-field-boxes.php');
+
 /* Loop Functions
    ======================================================================== */
 require_once(LT3_FULL_EXTENSIONS_PATH . '/loop.php');
@@ -135,6 +139,11 @@ require_once(LT3_FULL_EXTENSIONS_PATH . '/styles.php');
 /* Custom Taxonomies Init
    ======================================================================== */
 // require_once(LT3_FULL_PROJECT_PATH . '/custom-taxonomies-init.php');
+
+/* Custom Meta Field Box Init
+   ======================================================================== */
+// require_once(LT3_FULL_PROJECT_PATH . '/custom-meta-field-box-init.php');
+
 
 /**
  * Include more files as needed.
