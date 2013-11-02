@@ -1,0 +1,51 @@
+/**
+ *	Style Guide
+ *	=================
+ *	Set up variables to keep your design consistent
+ *
+ *  @import "packages/packageName"
+ */
+
+
+/**
+ *	Base Font Settings & Calculations
+ */
+
+$base-font-family: 	$helvetica; // Bourbon variable
+$base-font-size:    14px;
+$base-line-height:  1.25em;
+
+$heading-font: 		'Helvetica', Arial, San-serif;
+
+$base-font-color: 	#333;
+
+/**
+ * Font-sizes. Refer to relevant sections for their implementations.
+ */
+
+$h1-size:           4.429em; // 62px
+$h2-size:           3.143em; // 44px
+$h3-size:           2.857em; // 40px
+$h4-size:           1em; // 14px
+$h5-size:           0.857em;
+$h6-size:           0.714em;
+
+
+
+/**
+ *	Basic Colour Palette
+ */
+
+$pcyc-blue: 		#00a0df;
+$pcyc-dark-blue: 	#002e6c;
+$pcyc-orange: 		#F6B221;
+
+
+
+/**
+ *	Framework Sizing
+ */
+
+$fg-column: 		60px;		// Column Width
+$fg-gutter: 		20px;		// Gutter Width
+$fg-max-columns: 	12;			// Total Columns For Main Container

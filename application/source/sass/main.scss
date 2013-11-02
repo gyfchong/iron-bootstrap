@@ -1,9 +1,14 @@
 /*
-	Fonts: Declare any custom fonts here
+	Author: Your Name
+	Version: 1.0
 */
 
+/*
+	Fonts: Declare any custom fonts here
+*/
+	
 
-
+	
 /*
 	Packages: See packages.scss
 */
@@ -12,13 +17,26 @@
 
 
 /*
+	Style Guide to keep things consistent: See style-guide.scss
+*/
+
+	@import "style-guide";
+
+/*
 	Global styles: Your styles begin here
 */
 	
 	body {
-	
+		font-family: $base-font-family;
+		font-size: $base-font-size;
+		background-color: #fff;
+		color: $base-font-color;
+		-webkit-font-smoothing: antialiased !important;
 	}
-
+	
+	h1, h2, h3, h4,h5, h6 {
+		font-family: $heading-font;
+	}
 
 
 /*
@@ -36,15 +54,3 @@
 */
 
 //  @import "pages/sample";
-
-
-/*
-	Media Queries: Alter your design appearance based on media queries
-*/
-
-//  @import "media-queries/laptop";
-//  @import "media-queries/mobile";
-
-
-
-
