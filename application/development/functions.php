@@ -94,7 +94,7 @@ require_once(LT3_FULL_EXTENSIONS_PATH . '/template-snippets.php');
 
 /* Custom Meta Field Box
    ======================================================================== */
-// require_once(LT3_FULL_EXTENSIONS_PATH . '/custom-meta-field-boxes.php');
+// require_once(LT3_FULL_EXTENSIONS_PATH . '/custom-meta-field-box.php');
 
 /* Loop Functions
    ======================================================================== */
