@@ -32,6 +32,9 @@ function lt3_load_scripts()
   wp_register_script('lt3_plugins', LT3_FULL_SCRIPTS_PATH . '/plugins.js', array(), LT3_SCRIPTS_CACHE_BREAK, true);
   wp_register_script('lt3_main', LT3_FULL_SCRIPTS_PATH . '/main.js', array(), LT3_SCRIPTS_CACHE_BREAK, true);
   
+  /* Modernizr */
+  wp_enqueue_script('lt3_modernizr');
+
   /* jQuery */
   wp_enqueue_script('lt3_jquery');
 
