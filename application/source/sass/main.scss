@@ -3,28 +3,29 @@
 	Version: 1.0
 */
 
-/*
-	Fonts: Declare any custom fonts here
-*/
+/**
+ *	Fonts: Declare any custom fonts here
+ */
 	
 
 	
-/*
-	Packages: See packages.scss
-*/
+/**
+ *	Packages: See packages.scss
+ */
 
 	@import "packages";
 
 
-/*
-	Style Guide to keep things consistent: See style-guide.scss
-*/
+/**
+ *	Style Guide: See style-guide.scss
+ */
 
 	@import "style-guide";
 
-/*
-	Global styles: Your styles begin here
-*/
+/**
+ *	Global styles:
+ *	Declare styles that apply to your entire project.
+ */
 	
 	body {
 		font-family: $base-font-family;
@@ -39,9 +40,11 @@
 	}
 
 
-/*
-	User Interface: Different elements of your design
-*/
+/**
+ *	User Interface: 
+ *	You might find it useful to fragment your css into
+ *	different elements.
+ */
 
 //	@import "ui/header";
 //	@import "ui/elements";
@@ -49,8 +52,9 @@
 //	@import "ui/footer";
 
 
-/*
-	Pages: Styles for specific pages
-*/
-
-//  @import "pages/sample";
+/**
+ *	Pages:
+ *	You might find it useful to fragment your css into
+ *	different pages.
+ *	@import "pages/sample";
+ */
