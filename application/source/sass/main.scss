@@ -3,41 +3,24 @@
 	Version: 1.0
 */
 
-/**
- *	Fonts: Declare any custom fonts here
- */
-	
 
-	
-/**
- *	Packages: See packages.scss
- */
-
-	@import "packages";
-
+@charset "UTF-8";
+/*------------------------------------*\
+    STYLE.CSS
+\*------------------------------------*/
 
 /**
- *	Style Guide: See style-guide.scss
+ * Setup
  */
+@import "vars";
+@import "inuit.css/inuit";
 
-	@import "style-guide";
 
 /**
- *	Global styles:
- *	Declare styles that apply to your entire project.
+ * Global Styles
  */
-	
-	body {
-		font-family: $base-font-family;
-		font-size: $base-font-size;
-		background-color: #fff;
-		color: $base-font-color;
-		-webkit-font-smoothing: antialiased !important;
-	}
-	
-	h1, h2, h3, h4,h5, h6 {
-		font-family: $heading-font;
-	}
+
+
 
 
 /**
@@ -54,7 +37,7 @@
 
 /**
  *	Pages:
- *	You might find it useful to fragment your css into
+ *	You might find it useful to fragment your css even further into
  *	different pages.
  *	@import "pages/sample";
  */
