@@ -6,8 +6,7 @@ Welcome to **Iron Bootstrap**, a basic yet comprehensive starting point for deve
 
 - [LT3 Wordpress Theme v2.1](https://github.com/beaucharman/lt3)
 - [Grunt Project Kickstarter v2.0](https://github.com/beaucharman/grunt-project-kickstarter)
-- [Bourbon v2.1] (http://bourbon.io/)
-- [Neat v2.1] (http://neat.bourbon.io/) (Grid Framework)
+- [Inuit CSS] (http://inuit.css/)
 
 # Installation
 > Note: requires knowledge/installations of CLI such as Terminal, local PHP/Apache, Git and SASS.
